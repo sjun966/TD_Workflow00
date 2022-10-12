@@ -1,0 +1,7 @@
+_export:
+    td:
+        database: partner_northstar
+
+
++echo:
+    echo>: github test from yby
