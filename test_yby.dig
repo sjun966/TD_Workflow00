@@ -5,3 +5,6 @@ _export:
 
 +echo:
     echo>: github test from yby
+
++merge_conflict_test:
+    echo>: merge conflict test
