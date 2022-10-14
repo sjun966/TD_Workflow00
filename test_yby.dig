@@ -12,3 +12,5 @@ _export:
     echo>: merge conflict test 222222222222222 by yby
 +merge_conflict_test3:
     echo>: merge conflict test 456 by yby
+
+    echo>: merge conflict test 000000000
