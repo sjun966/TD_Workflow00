@@ -1,6 +1,4 @@
-#test123
-#test345
-#test567
+#jenkins test#
 name: ${canonical_db_name}
 
 keys:
